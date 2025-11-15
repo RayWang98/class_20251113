@@ -1,3 +1,4 @@
 # 告訴 Git 將 .ipynb 檔案視為二進位檔案，不進行換行符號轉換
 *.ipynb binary
 *.text eol=lf
+*.csv eol=lf

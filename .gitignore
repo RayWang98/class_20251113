@@ -1,3 +1,5 @@
 /first.py
 /venv
 /.env
+/*.json
+/*.csv
